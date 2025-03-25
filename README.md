@@ -1,4 +1,1 @@
-## Assignments
-
-[Final Assignment (GitHub)](https://github.com/gcosta22/Assignments/blob/master/Python_Assignment.ipynb)<br>
-
+## Research Assignment: The Effect of Commodities Prices on the British Pound Exchange Rate
